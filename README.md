@@ -8,11 +8,12 @@
 pip freeze > requirements.txt
 ```
 
-在当前文件夹下创建 `.cookie` 文件，找到你的雪球`cookie` 写入
+在当前文件夹下创建 `.cookie` 文件，找到你的雪球`cookie` ,写入`.cookie` 文件
+
 MarketCode 接受三种：CN,US,HK
 
 ```shell
-#比如
+# 调用
 python crawler.py CN
 ```
 
